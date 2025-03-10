@@ -1,0 +1,15 @@
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\Hourglass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\Hourglass.AssemblyInfoInputs.cache
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\Hourglass.AssemblyInfo.cs
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\Hourglass.csproj.CoreCompileInputs.cache
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\Hourglass.sourcelink.json
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\bin\Debug\net8.0\Hourglass.exe
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\bin\Debug\net8.0\Hourglass.deps.json
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\bin\Debug\net8.0\Hourglass.runtimeconfig.json
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\bin\Debug\net8.0\Hourglass.dll
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\bin\Debug\net8.0\Hourglass.pdb
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\Hourglass.dll
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\refint\Hourglass.dll
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\Hourglass.pdb
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\Hourglass.genruntimeconfig.cache
+C:\Projects EdD\AppliedLogic\AppliedLogic\Hourglass\obj\Debug\net8.0\ref\Hourglass.dll

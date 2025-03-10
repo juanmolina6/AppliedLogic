@@ -1,0 +1,15 @@
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\TriangularInferior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\TriangularInferior.AssemblyInfoInputs.cache
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\TriangularInferior.AssemblyInfo.cs
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\TriangularInferior.csproj.CoreCompileInputs.cache
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\TriangularInferior.sourcelink.json
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\bin\Debug\net8.0\TriangularInferior.exe
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\bin\Debug\net8.0\TriangularInferior.deps.json
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\bin\Debug\net8.0\TriangularInferior.runtimeconfig.json
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\bin\Debug\net8.0\TriangularInferior.dll
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\bin\Debug\net8.0\TriangularInferior.pdb
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\TriangularInferior.dll
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\refint\TriangularInferior.dll
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\TriangularInferior.pdb
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\TriangularInferior.genruntimeconfig.cache
+C:\Projects EdD\AppliedLogic\AppliedLogic\TriangularInferior\obj\Debug\net8.0\ref\TriangularInferior.dll
